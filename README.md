@@ -51,7 +51,9 @@ I was also responsible for creating the toggle to switch between the login and s
 
 
 JobDetailPageCode
+
 ![i3](https://github.com/sdg877/InTechFrontend/assets/149600602/12df3c21-fddc-4b54-a90d-9a8ab74386c7)
+
 ![i4](https://github.com/sdg877/InTechFrontend/assets/149600602/b675c37d-6a1b-4fc6-929b-3aaae23e107d)
 
 
@@ -69,11 +71,14 @@ Future Improvements
 As we planned our project so well, we were able to complete all the stretches that we wanted to.
 	
 JobCard before styling:
+
 ![i5](https://github.com/sdg877/InTechFrontend/assets/149600602/8b75242e-f7e6-4295-b103-01eb703f6680)
 
 JobCard after styling:
+
 ![i6](https://github.com/sdg877/InTechFrontend/assets/149600602/16b9d5af-0c10-4d70-a657-0e25c3cf2d06)
 
 JobDetail Page:
+
 ![i7](https://github.com/sdg877/InTechFrontend/assets/149600602/89852300-d40b-4c49-9213-8370c0c77743)
 
